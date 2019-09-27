@@ -1,5 +1,5 @@
 //liangen_190927.js
-
+//https://redengine9992.github.io/liangen.js/liangen_190927.js
 //rclk_xuj_pwt   rclkxupw("kkkk");
 function rclkxupw(cname) {
 	(function(window, location) {
